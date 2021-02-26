@@ -322,7 +322,7 @@ ol {
 .header__nav__menu ul li {
   list-style: none;
   display: inline-block;
-  margin-right: 35px;
+  margin-right: 25px;
   position: relative;
 }
 .header__nav__menu ul li.active a:after {
@@ -792,7 +792,7 @@ ol {
 }
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/blog/blog-1.jpg);
+  background: url(../img/blog/blog-2.png);
   background-size: cover;
 }
 
@@ -1357,9 +1357,64 @@ ol {
   z-index: 1;
   margin-bottom: 45px;
 }
-.blog__item:hover {
+.blog__item1:hover {
   border: 1px solid transparent !important;
-  background: url(../img/blog/blog-2.jpg) no-repeat;
+  background: url(../img/blog/blog-2.png) no-repeat;
+  background-size: cover;
+}
+.blog__item2:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/blog-3.png) no-repeat;
+  background-size: cover;
+}
+.blog__item3:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/blog-4.png) no-repeat;
+  background-size: cover;
+}
+.blog__item4:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/blog-5.png) no-repeat;
+  background-size: cover;
+}
+.blog__item5:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/blog-6.png) no-repeat;
+  background-size: cover;
+}
+.blog__item6:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/blog-7.png) no-repeat;
+  background-size: cover;
+}
+.blog__item8:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/area1.png) no-repeat;
+  background-size: cover;
+}
+.blog__item9:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/area2.png) no-repeat;
+  background-size: cover;
+}
+.blog__item10:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/area3.png) no-repeat;
+  background-size: cover;
+}
+.blog__item11:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/pistrap.png) no-repeat;
+  background-size: cover;
+}
+.blog__item12:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/emb.png) no-repeat;
+  background-size: cover;
+}
+.blog__item13:hover {
+  border: 1px solid transparent !important;
+  background: url(../img/blog/edifbas.png) no-repeat;
   background-size: cover;
 }
 .blog__item:hover ul li {
