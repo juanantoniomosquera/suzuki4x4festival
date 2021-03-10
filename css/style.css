@@ -309,6 +309,9 @@ ol {
 .header__logo a {
   display: inline-block;
 }
+.header__logo img {
+  max-width: 80%;
+}
 
 .header__nav__option {
   text-align: right;
