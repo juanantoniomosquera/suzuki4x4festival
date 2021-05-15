@@ -798,7 +798,34 @@ ol {
   background: url(../img/blog/blog-2.png);
   background-size: cover;
 }
-
+.mas4x4 {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/mas4x4.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
+.jimnyspain {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/jimnyspain.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
+.jimnycamp {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/jimnycamp.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
+.euro4x4parts {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/euro4x4parts.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
 .latest__slider.owl-carousel .owl-item .col-lg-4 {
   max-width: 100%;
 }

@@ -29,6 +29,22 @@
             var containerEl = document.querySelector('.portfolio__gallery');
             var mixer = mixitup(containerEl);
         }
+        $('.mas4x4').on('click', function () {
+            window.open('http://www.mas4x4.com/');
+        });
+        $('.mas4x4').css('cursor', 'pointer');
+        $('.jimnycamp').on('click', function () {
+            window.open('https://instagram.com/jimny_campstyle?igshid=19az70x2uet3k');
+        });
+        $('.jimnycamp').css('cursor', 'pointer');
+        $('.jimnyspain').on('click', function () {
+            window.open('https://instagram.com/jimny_spain?igshid=4sl05t0kew0');
+        });
+        $('.jimnyspain').css('cursor', 'pointer');
+        $('.euro4x4parts').on('click', function () {
+            window.open('http://www.euro4x4parts.com/');
+        });
+        $('.euro4x4parts').css('cursor', 'pointer');
     });
 
     /*------------------
