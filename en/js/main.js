@@ -45,6 +45,18 @@
             window.open('http://www.euro4x4parts.com/');
         });
         $('.euro4x4parts').css('cursor', 'pointer');
+        $('.bfgoodrich').on('click', function () {
+            window.open('http://www.bfgoodrich.es/');
+        });
+        $('.bfgoodrich').css('cursor', 'pointer');
+        $('.mercury').on('click', function () {
+            window.open('https://mercurybcn.es/');
+        });
+        $('.mercury').css('cursor', 'pointer');
+        $('.accesoris').on('click', function () {
+            window.open('https://salateam.com/cat/');
+        });
+        $('.accesoris').css('cursor', 'pointer');
     });
 
     /*------------------

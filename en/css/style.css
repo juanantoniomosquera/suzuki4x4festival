@@ -826,6 +826,27 @@ ol {
   height: 250px;
   width: 360px;
 }
+.bfgoodrich {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/bfgoodrich.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
+.mercury {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/mercury_logo_confondo.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
+.accesoris {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/AccManresaWeb.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 360px;
+}
 .latest__slider.owl-carousel .owl-item .col-lg-4 {
   max-width: 100%;
 }
