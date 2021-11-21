@@ -54,7 +54,7 @@
         });
         $('.mercury').css('cursor', 'pointer');
         $('.accesoris').on('click', function () {
-            window.open('https://salateam.com/cat/');
+            window.open('https://accessorismanresa.redsuzuki.es/');
         });
         $('.accesoris').css('cursor', 'pointer');
     });
